@@ -1,4 +1,3 @@
-# VueComponents
 >这个仓库主要是记录平时可能用到的一些vue组件功能的实现。  
 主要的代码在src/component文件夹中。
 
