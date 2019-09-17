@@ -9,7 +9,7 @@ const router = new Router({
             component: indexPage,
         },
         {
-            path: '/nuberKeyBoard',
+            path: '/numberKeyBoard',
             component: numberKeyBoard,
         }
     ]
