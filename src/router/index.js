@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import indexPage from '../view/hello.vue'
 import numberKeyBoard from '../view/numberKeyBoard.vue'
+import videoPlayer from '../view/videoPlayer.vue'
 Vue.use(Router);
 const router = new Router({
     routes: [{
@@ -11,6 +12,9 @@ const router = new Router({
         {
             path: '/numberKeyBoard',
             component: numberKeyBoard,
+        }, {
+            path: '/videoPlayer',
+            component: videoPlayer
         }
     ]
 })

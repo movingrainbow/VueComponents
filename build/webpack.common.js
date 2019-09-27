@@ -3,7 +3,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-const MiniCssExtractPlugin  = require('mini-css-extract-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const devMode = process.env.NODE_ENV !== 'production';
 console.log(process.env.NODE_ENV);
 module.exports = {
@@ -24,9 +24,9 @@ module.exports = {
                             reloadAll: true,
                         },
                     },
-                   // 'style-loader',
-                   // 'vue-style-loader',
-                   // 'postcss-loader',
+                    // 'style-loader',
+                    // 'vue-style-loader',
+                    // 'postcss-loader',
                     'css-loader',
                     'sass-loader',
                     {

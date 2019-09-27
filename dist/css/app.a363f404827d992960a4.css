@@ -1,8 +1,0 @@
-#app{font-family:微软雅黑}
-
-.test1{display:-webkit-box;display:-ms-flexbox;display:flex;color:orange;font-size:30px}.test1:hover{color:yellow}
-
-.NumberkeyBoard{position:fixed;width:165px}.keyBoard{width:165px;background:#000000}.numberTD{display:inline-block;width:43px;height:35px;color:#fff;line-height:35px;text-align:center;background:black;border:1px solid #6f6e6f;-webkit-box-shadow:0px 0px 2px 2px #fff;box-shadow:0px 0px 2px 2px #fff;margin:5px;cursor:pointer}.numberTD:hover{background:#e860ff}.numberTD:active{-webkit-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8)}
-
-.test{background:url(../images/227acd4.png) no-repeat 0 0;width:850px;height:450px;color:yellow}
-
