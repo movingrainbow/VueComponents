@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="vcs-videoplayer">
-      <videoPlay v-show="value=='1'" :url="'../../static/media/movie.ogv'"></videoPlay>
-      <videoPlay v-show="value=='2'" :url="'../../static/media/SleepAway.mp3'"></videoPlay>
+      <videoPlay v-show="value=='1'" :url="'static/media/movie.ogv'"></videoPlay>
+      <videoPlay v-show="value=='2'" :url="'static/media/SleepAway.mp3'"></videoPlay>
     </div>
     <div>
       <select v-model="value">
