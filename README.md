@@ -2,3 +2,4 @@
 主要的代码在src/component文件夹中。
 
 -  数字小键盘  [demo](https://juststart-lic.github.io/VueComponents/dist/index.html#/numberKeyBoard)
+- 音频/视频自定义播放控件 [demo](https://juststart-lic.github.io/VueComponents/dist/index.html#/videoPlayer)
